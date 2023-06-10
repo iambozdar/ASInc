@@ -8,18 +8,18 @@ This template uses materialize.css which is my the most favourite styling framew
 
 I can also help you with a custom style design.
 
-Do not hesitate to reach me https://twitter.com/ajbozdar
+Do not hesitate to reach me https://twitter.com/iambozdar
 
-Visit my personal website https://ajbozdar.com
+Visit my personal website https://iambozdar.com
 
 ## Screenshots
 
-![ajbozdar-travel-theme](https://github.com/ajbozdar/ASInc/blob/master/ASInc-1.png)
+![iambozdar-travel-theme](https://github.com/iambozdar/ASInc/blob/master/ASInc-1.png)
 
-![ajbozdar-travel-theme](https://github.com/ajbozdar/ASInc/blob/master/ASInc-2.png)
+![iambozdar-travel-theme](https://github.com/iambozdar/ASInc/blob/master/ASInc-2.png)
 
-![ajbozdar-travel-theme](https://github.com/ajbozdar/ASInc/blob/master/ASInc-3.png)
+![iambozdar-travel-theme](https://github.com/iambozdar/ASInc/blob/master/ASInc-3.png)
 
-![ajbozdar-travel-theme](https://github.com/ajbozdar/ASInc/blob/master/ASInc-4.png)
+![iambozdar-travel-theme](https://github.com/iambozdar/ASInc/blob/master/ASInc-4.png)
 
-![ajbozdar-travel-theme](https://github.com/ajbozdar/ASInc/blob/master/ASInc-5.png)
+![iambozdar-travel-theme](https://github.com/iambozdar/ASInc/blob/master/ASInc-5.png)
